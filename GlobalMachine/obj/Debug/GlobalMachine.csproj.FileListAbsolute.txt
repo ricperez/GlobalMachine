@@ -1,0 +1,6 @@
+c:\users\ibm_admin\documents\visual studio 2013\Projects\GlobalMachine\GlobalMachine\bin\Debug\GlobalMachine.exe.config
+c:\users\ibm_admin\documents\visual studio 2013\Projects\GlobalMachine\GlobalMachine\obj\Debug\GlobalMachine.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2013\Projects\GlobalMachine\GlobalMachine\bin\Debug\GlobalMachine.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\GlobalMachine\GlobalMachine\bin\Debug\GlobalMachine.pdb
+c:\users\ibm_admin\documents\visual studio 2013\Projects\GlobalMachine\GlobalMachine\obj\Debug\GlobalMachine.exe
+c:\users\ibm_admin\documents\visual studio 2013\Projects\GlobalMachine\GlobalMachine\obj\Debug\GlobalMachine.pdb
